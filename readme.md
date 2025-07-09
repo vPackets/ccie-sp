@@ -72,8 +72,8 @@ By achieving this, I aim to position myself as a trusted technical leader in the
 
 ## 🛠️ Resources & Support
 
-- **Training** https://ccie-sp.gitbook.io/ccie-spv5.1-labs
-- **Training** https://github.com/lukasz-bromirski/netdesign.zone?tab=readme-ov-file
+- **Training** https://ccie-sp.gitbook.io/ccie-spv5.1-labs by https://www.linkedin.com/in/andrewohanian/
+- **Training** https://github.com/lukasz-bromirski/netdesign.zone?tab=readme-ov-file by https://www.linkedin.com/in/lukaszbromirski/
 - **Mentors:** Bruce McDougall, Rob Murphy, Dave Smith  
 - **Books:** [CCIE SP Ultimate Guide on Leanpub](https://leanpub.com/b/cciespultimate)  
 - **Tools:** Containerlab, GitHub, DevNet Sandbox  
